@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andressa</h1>
 <h3 align="center">Taking my first steps in the world of computing engineering</h3>
 
-<p align="center"> <img src="https://64.media.tumblr.com/0c298b8390beca578f619cea5a503f40/de3f987e488cfb94-1e/s1280x1920/f0e483db482fd99c54306269b4a5151bdcfa884c.jpg" width=40% alt="Andressa" /> </p>
+<p align="right"> <img src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" width=40% alt="Andressa" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xndrxssx&label=Profile%20views&color=0e75b6&style=flat" alt="Andressa" /> </p>
 
 - 🌱 I’m currently learning **C and Assembly**
@@ -9,6 +9,7 @@
 - 📫 How to reach me **acarvalho0710@gmail.com**
 
 - ⚡ Fun fact **Sim, eu sou a Jegona do YouTube.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
