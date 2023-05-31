@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **acarvalho0710@gmail.com**
 
-- ⚡ Fun fact **Sim, eu sou a Jegona do YouTube.**
 
 
 <h3 align="left">Connect with me:</h3>
