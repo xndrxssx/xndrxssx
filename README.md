@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andressa</h1>
 <h3 align="center">Taking my first steps in the world of computing engineering</h3>
 
-<p align="center"> <img src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" width=40% alt="Andressa" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xndrxssx&label=Profile%20views&color=0e75b6&style=flat" alt="Andressa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xndrxssx&label=Profile%20views&color=4d09ec&style=plastic" alt="xndrxssx" /> </p>
 
 - 🌱 I’m currently learning **C and Assembly**
 
 - 📫 How to reach me **acarvalho0710@gmail.com**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xndrxssx&show_icons=true&theme=merko&locale=en&layout=compact" alt="xndrxssx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xndrxssx&show_icons=true&theme=tokyonight&locale=en" alt="xndrxssx" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xndrxssx&theme=dark" alt="xndrxssx" /></p>
