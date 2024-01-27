@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" width=40% alt="Andressa" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xndrxssx&label=Profile%20views&color=4d09ec&style=plastic" alt="xndrxssx" /> </p>
 
-- 🌱 I’m currently learning **C and Assembly**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **acarvalho0710@gmail.com**
 
