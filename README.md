@@ -1,8 +1,5 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Andressa</h1>
-<h3 align="center">Taking my first steps in the world of computing engineering</h3>
-
-<p align="center"> <img src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" width=40% alt="Andressa" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xndrxssx&label=Profile%20views&color=0e75b6&style=flat" alt="xndrxssx" /> </p>
 
 - 🌱 I’m currently learning **Python, Machine Learning and Data Science**
