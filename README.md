@@ -1,6 +1,5 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Andressa</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xndrxssx&label=Profile%20views&color=0e75b6&style=flat" alt="xndrxssx" /> </p>
 
 - 🌱 I’m currently learning **Python, Machine Learning and Data Science**
 
