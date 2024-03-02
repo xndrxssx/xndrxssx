@@ -1,7 +1,5 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Andressa</h1>
-
-- 🌱 I’m currently learning **Python, Machine Learning and Data Science**
+<h1 align="center">Hi 👋</h1>
 
 - 📫 How to reach me **acarvalho0710@gmail.com**
 
