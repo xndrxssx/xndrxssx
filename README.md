@@ -25,4 +25,14 @@ Currently i'm student of computer engineering with a strong enthusiasm for data 
   <a href = "mailto:acarvalho0710@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andressa-carvalho-6b09b2312/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://open.spotify.com/user/js_de?si=2b539919334b40f3" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
- 
+
+## 
+<blockquote>
+  “In case i don’t see ya, good afternoon, good evening and goodnight.”
+  <cite>- The Truman Show (1998)</cite>
+</blockquote>
+
+<div style="text-align: center;">
+  <img width=15% src="https://github.com/user-attachments/assets/27a85f3c-321a-465e-894e-e966eae7fd00" alt="">
+</div>
+
