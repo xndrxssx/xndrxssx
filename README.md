@@ -15,7 +15,7 @@ Currently i'm student of computer engineering with a strong enthusiasm for data 
 ---
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,c,cpp,css,docker,eclipse,express,git,github,html,javascript,latex,md,mongodb,mysql,nextjs,nodejs,notion,npm,obsidian,postman,prisma,py,raspberrypi,sklearn,swift,tailwind,tensorflow,ts,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,c,cpp,css,docker,express,git,github,html,javascript,latex,md,mongodb,mysql,nextjs,nodejs,npm,postman,prisma,py,raspberrypi,sklearn,swift,tailwind,tensorflow,ts,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 ## Contacts
